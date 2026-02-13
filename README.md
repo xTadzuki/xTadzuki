@@ -26,7 +26,7 @@
 
 ---
 
-## 🧩 Stack & compétences
+## Stack & compétences
 
 <p>
   <img src="https://img.shields.io/badge/PHP-0b0b0b?style=flat&logo=php&logoColor=white" />
@@ -46,9 +46,9 @@
 
 ---
 
-## ⭐ Projets phares (pinned)
+##  Projets phares (pinned)
 
-### 🚗 Customotor — Site vitrine + back-office (PHP MVC)
+###  Customotor — Site vitrine + back-office (PHP MVC)
 <p>
   <img src="https://img.shields.io/badge/PHP%20MVC-0b0b0b?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Admin%20CRUD-0b0b0b?style=flat&logo=appveyor&logoColor=white" />
@@ -61,7 +61,7 @@ Application orientée garage / préparation auto : vitrine, lookbook, services p
 
 ---
 
-### 🍽️ Vite & Gourmand — Projet ECF (PHP / MySQL)
+###  Vite & Gourmand — Projet ECF (PHP / MySQL)
 <p>
   <img src="https://img.shields.io/badge/Projet%20ECF-0b0b0b?style=flat&logo=readthedocs&logoColor=white" />
   <img src="https://img.shields.io/badge/XAMPP-0b0b0b?style=flat&logo=xampp&logoColor=white" />
@@ -74,7 +74,7 @@ Projet de validation : application PHP + base MySQL avec installation locale (XA
 
 ---
 
-## 💼 Ce que je propose (Freelance / CDI)
+##  Ce que je propose (Freelance / CDI)
 
 - **Sites vitrines premium** (design + intégration + performances)
 - **Back-office sur mesure** (CRUD, rôles, statuts, sécurité)
@@ -83,7 +83,7 @@ Projet de validation : application PHP + base MySQL avec installation locale (XA
 
 ---
 
-## 📌 En ce moment
+##  En ce moment
 - Amélioration de projets “portfolio-ready” (README, captures, démos)
 - Renforcement back-end (sécurité, architecture, qualité de code)
 
