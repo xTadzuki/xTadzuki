@@ -15,9 +15,6 @@
 <p align="center">
   <a href="https://github.com/xTadzuki"><img src="https://img.shields.io/badge/GitHub-xTadzuki-0b0b0b?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/France-Paris%20(UTC%2B1)-0b0b0b?style=flat&logo=googlemaps&logoColor=white" alt="France" />
-  <img src="https://img.shields.io/badge/Contact-Email-0b0b0b?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/Portfolio-%C3%A0%20venir-0b0b0b?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/LinkedIn-%C3%A0%20ajouter-0b0b0b?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </p>
 
 > ✉️ **Email :** `marie.bouvier.1996@gmail.com`  
